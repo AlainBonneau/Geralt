@@ -58,7 +58,7 @@
     padding: 15px 30px;
     background-color: var(--color-primary);
     border: 2px solid black;
-    color: black;;
+    color: white;
     font-family: "Permanent Marker", cursive;
     font-weight: 400;
     font-size: 1rem;
@@ -67,7 +67,7 @@
 
 .header-navbar__computer > a:hover {
     background-color: var(--color-primary);
-    color: white;
+    color: black;
     transition: 0.5s ease;
 }
 
